@@ -28,10 +28,32 @@ This project enables users to control mouse functions using hand gestures detect
 - Efficient tracking and analysis of hand gestures
 - Smooth user interaction without hardware devices
 
+## 🎯 Applications
+
+- Touchless computer control systems  
+- Accessibility for physically challenged users  
+- Smart automation environments  
+- AI-based human-computer interaction  
+
 ## ▶️ Installation
 
 ```bash
 pip install -r requirements.txt
+
+## ▶️ Run the Project
+
+```bash
+python src/main.py
+
+
+```markdown
+## 📂 Project Structure
+virtual-mouse-gesture-control/
+│── src/
+│ └── main.py
+│── demo/
+│── requirements.txt
+│── README.md
 
 ## 📷 Demo
 
